@@ -1,0 +1,136 @@
+body{ 
+    text-transform: capitalize;
+   }
+
+header{font-family: cursive;}
+
+#head1{
+    display:flex;
+    background-image: url('pic2.jpeg');
+    background-size:cover;
+}
+    
+#icon{
+     padding-right: 500px;
+     font-size: 20px;
+     margin:0 0 0 120px;
+}
+
+#i1{padding-right: 15px;}
+#i2{padding-right: 15px;}
+#i3{padding-right: 15px;}
+#i4{padding-right: 15px;}
+#i5{padding-right: 15px;}
+#i6{padding-right: 15px;}
+#i7{padding-right: 15px;}
+
+#icon2{
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+#ph{
+    padding-right: 50px;
+}
+
+#head2{
+    margin:0 0 20px 120px;
+}
+
+.l1{margin-left: 303px; text-decoration:none;}
+.l2{margin-left: 40px; text-decoration:none;}
+.l3{margin-left: 40px; text-decoration:none;}
+.l4{margin-left: 40px; text-decoration:none;}
+.l5{margin-left: 40px; text-decoration:none;}
+.l6{margin-left: 50px; text-decoration:none;
+    border: solid greenyellow ;
+    border-radius: 10px;
+    background-color: greenyellow; 
+    padding: 2px 10px 2px 10px; 
+}
+
+#l7{margin-left: 50px; }
+
+article{ 
+    background-image: url('1.jpg');
+    background-size: cover;
+}
+
+.bgimg{padding:20px 0 100px 120px;
+       font-size: 2.5em;
+       color:black;
+}
+
+.h1{
+    font-size: 1.3em;
+}
+
+.p1{
+    font-size: 0.8em;
+    letter-spacing: 3px;
+    line-height: 45px;
+    word-spacing: 8px;
+}
+
+.readmore{
+    background-image: url('pic2.jpeg') ;
+    text-decoration: none;
+    font-size:0.5em ;
+    color: black;
+    border-radius: 13px;
+    padding: 5px 8px 5px 8px;
+}
+
+.readmore2{
+    background-image: url('pic2.jpeg') ;
+    text-decoration: none;
+    font-size:0.7em ;
+    color: black;
+    border-radius: 13px;
+    padding: 6px 10px 6px 10px;
+    margin-left: 80px;
+    letter-spacing: 0.5px;
+    word-spacing: 0.8px;
+}
+
+#about{
+    display:flex;
+}
+
+.pd{
+    margin-top: 15px;
+    border:2px solid black;
+    border-radius: 6px;
+}
+
+#ab{
+    font-size: 2.5em;
+}
+
+#us{
+    margin:0px 50px 0px 50px;
+    font-size: 1em;
+    letter-spacing: 1px;
+    line-height: 22px;
+    word-spacing: 8px;
+    text-transform: none;
+}
+
+#rew{
+    font-size: 1.2em;
+}
+
+#lascon{
+    text-align: center;
+    text-transform: none;
+    background-image: url('pic2.jpeg');
+    background-size:cover  ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#las1{padding-right: 10px;}
+#las2{padding-right: 10px;}
+#las3{padding-right: 10px;}
+#las4{padding-right: 10px;}
+
